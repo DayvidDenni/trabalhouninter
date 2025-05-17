@@ -1,0 +1,24 @@
+
+.tituloprincipal{color: darkred;text-align: center;font-size: 60px;}
+
+.paragrafo{font-size:20px;
+text-align: justify;}
+
+.lista{line-height:50px;}
+
+#imagem{border-radius: 25px;}
+.tabela,td,tr{
+    border: 5px solid rgb(41, 41, 41);
+    width: 35%;
+    margin-bottom: 2px;
+    padding:5px;
+    font-size: 25px;
+    font-style: oblique;
+}
+.site:hover{
+    color: crimson;
+    text-align: center;
+    margin: 30px;
+}
+
+body{background-color:rgb(243, 237, 229);}
